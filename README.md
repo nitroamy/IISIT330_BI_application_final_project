@@ -17,7 +17,8 @@ My job was to use a simplified version of the actual OLTP database, which was cr
 ### Project Timeline:
 - Week 1: Design and Begin Documentation
   1. The project database called "EnrollmentTracker" was created first. A SQL script was provided by the course instructor to create this initial database.
-  2.
+  2. A developer design documentation using a Excel spreadsheet was created.
+  3. The design documentation was added to new Visual Studio Solution.
 - Week 2: Create the Data Warehouse
 - Week 3: Create the ETL Process with SQL and SSIS
 - Week 4: Create Reports 
