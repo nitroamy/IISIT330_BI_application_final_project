@@ -7,11 +7,11 @@ Final project for business intelligence course (ISIT330: business intelligence a
 My job was to use a simplified version of the actual OLTP database, which was created by the course instructor, to create a basic example of the BI reporting solution. This basic solution inclued a developer documentation (in the form of an excel spreadsheet), a data warehouse, a SQL ETL script, a SSIS Package that uses the ETL script's code, and some example reports. 
 
 ### Project Requirements:
-1. SQL Server Data warehouse Script
-2. SQL ETL Script
-3. SSIS Package
-4. Developer Document (Excel Spreadsheet)
-5. Demo Reports (Excel and PowerBI)
+1. [SQL Server Data warehouse Script](https://github.com/nitroamy/ISIT330_BI_application_final_project/blob/master/SQLCode/DWEnrollmentTracker%20Database.sql)
+2. [SQL ETL Script](https://github.com/nitroamy/ISIT330_BI_application_final_project/blob/master/SQLCode/DWEnrollmentTracker%20ETL.sql)
+3. SSIS Package: included in [Visual studio BI solution project](https://github.com/nitroamy/ISIT330_BI_application_final_project/blob/master/EnrollmentTrackerProjects_AmyHong.zip)
+4. [Developer Document (Excel Spreadsheet)](https://github.com/nitroamy/ISIT330_BI_application_final_project/blob/master/Documents/EnrollmentTracker.xlsx)
+5. [Demo Reports (Excel and PowerBI)](https://github.com/nitroamy/ISIT330_BI_application_final_project/tree/master/Reports)
 
 
 ### Project Timeline:
